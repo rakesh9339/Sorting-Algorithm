@@ -63,6 +63,6 @@ print(list_of_nums)
 
 ## Output:
 ![](RN1.png)
-![](rn2.png)
+![](RN2.png)
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
